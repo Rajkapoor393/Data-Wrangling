@@ -13,6 +13,12 @@
 | Count(frequency) Encoding |
 | Convert Numeric Categorical to Numeric |
 | CSV to python code |
+| Create column using conditional |
+| Create column with loop |
+| Create list from dictionary keys and values |
+| Create pipeline pandas |
+| Create counts of items |
+| Crosstabs in pandas|
 
 
 <div align="center">
