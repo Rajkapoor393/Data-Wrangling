@@ -19,6 +19,9 @@
 | Create pipeline pandas |
 | Create counts of items |
 | Crosstabs in pandas|
+| Convert to datetime pandas |
+| dataframe count value pandas |
+| pandas regex to create columns |
 
 
 <div align="center">
