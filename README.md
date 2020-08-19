@@ -22,7 +22,7 @@
 | Convert to datetime pandas |
 | dataframe count value pandas |
 | pandas regex to create columns |
-
+| Delete Duplicates |
 
 <div align="center">
 
