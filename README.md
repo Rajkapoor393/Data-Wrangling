@@ -23,6 +23,7 @@
 | dataframe count value pandas |
 | pandas regex to create columns |
 | Delete Duplicates |
+| Dataframe Descriptive|
 
 <div align="center">
 
