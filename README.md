@@ -24,6 +24,10 @@
 | pandas regex to create columns |
 | Delete Duplicates |
 | Dataframe Descriptive|
+|Dropping column and rows|
+|Enumerate a list|
+
+
 
 <div align="center">
 
