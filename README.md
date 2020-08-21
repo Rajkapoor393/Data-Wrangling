@@ -26,7 +26,8 @@
 | Dataframe Descriptive|
 |Dropping column and rows|
 |Enumerate a list|
-
+|Expand cells containing list|
+|Filter DataFrame|
 
 
 <div align="center">
