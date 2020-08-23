@@ -28,6 +28,9 @@
 |Enumerate a list|
 |Expand cells containing list|
 |Filter DataFrame|
+|Find largest values in column|
+|Geocoding|
+|Unique values|
 
 
 <div align="center">
