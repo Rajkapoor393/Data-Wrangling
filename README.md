@@ -31,6 +31,7 @@
 |Find largest values in column|
 |Geocoding|
 |Unique values|
+| Group by time|
 
 
 <div align="center">
