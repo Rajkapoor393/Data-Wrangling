@@ -32,7 +32,12 @@
 |Geocoding|
 |Unique values|
 | Group by time|
-
+|Group data by Hour of the Day|
+| Group Rows in pandas|
+| Hierarchical Data In pandas|
+|Join and merge pandas dataframe |
+||
+||
 
 <div align="center">
 
