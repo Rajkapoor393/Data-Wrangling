@@ -36,7 +36,7 @@
 | Group Rows in pandas|
 | Hierarchical Data In pandas|
 |Join and merge pandas dataframe |
-||
+|List Unique Values In a pandas column|
 ||
 
 <div align="center">
